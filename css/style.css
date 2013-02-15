@@ -1,0 +1,28 @@
+body {
+	background-color: #99CCCC;
+	background-size: 1500px 1000px
+
+}
+
+h1 {
+	font-family: Impact;
+	color: black;
+	font-size: 45px;
+}
+
+h4 {
+	color: #282828;
+	font-family: Optima;
+}
+
+form {
+	font-family: Optima;
+	font-weight: bold;
+	font-size: 14px;
+	color: black;
+}
+
+p {
+	font-size: 12px;
+	color: #282828;
+}
